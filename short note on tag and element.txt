@@ -1,0 +1,6 @@
+An html tag is the one who shows the browser that in which way the information or data is rendered on the web page! it starts with < open diamond symbol and ends with > closed dialmond symbol.
+example for html tag is <h1>opening tag</h1> closing tag
+
+    whereas
+An element consists of opening tag closing tag and some content between them which will be displayed or rendered on the web page 
+example- <h1>this is an element</h1>
