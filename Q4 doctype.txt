@@ -1,0 +1,3 @@
+In the doctype declaration in HTML, we actually declare that which type of document to be expected by the browser or simply we pre notify the browser that which type of document we will fed. 
+
+0 comments on com
